@@ -11,4 +11,4 @@ UI design Credit: [Okoro Joshua](https://twitter.com/okoro__joshua/status/118534
 ![Light Mode](https://pbs.twimg.com/media/EHMzpeHXkAEXT3P?format=jpg&name=4096x4096)
 
 
-![f](https://im2.ezgif.com/tmp/ezgif-2-4d456c238dba.gif)
+![WhatsApp UI redesign](https://github.com/DAMMAK/WhatsAppUI/blob/master/ezgif-2-4d456c238dba.gif)
